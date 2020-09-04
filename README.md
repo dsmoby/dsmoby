@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on developing my portfolio
-- 🌱 I’m currently learning React, SQL, D3, Django, Data Analysis and visulation
+- 🌱 I’m currently learning React, SQL, D3, Django, Data Analysis and visulisation
 -  👯 I’m looking to collaborate on any project that involves data visualisation, data analysis, machine learning or building a medium to large webportal
