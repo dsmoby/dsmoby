@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **dsmoby/dsmoby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on developing my portfolio
+- 🌱 I’m currently learning React, SQL, D3, Django, Data Analysis and visulation
+-  👯 I’m looking to collaborate on any project that involves data visualisation, data analysis, machine learning or building a medium to large webportal
